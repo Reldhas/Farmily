@@ -1,6 +1,6 @@
 # Farmily local prototype
 
-React + TypeScript + Vite reconstruction of the mobile screens visible in [Farmily — UI](https://www.figma.com/design/kowdyJKqaPGqrG9qWD2Lb9/Farmily---UI?node-id=189-476).
+React + TypeScript + Vite reconstruction of the mobile screens visible in [Farmily — UI](https://farmily-sg.vercel.app).
 
 ## Run
 
